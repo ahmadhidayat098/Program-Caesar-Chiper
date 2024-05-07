@@ -32,10 +32,3 @@ This is a web application that implements the Caesar Cipher method for encryptio
 
 ## Contributing:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## Disclaimer:
-   I created this program to fulfill a college assignment for the Advanced Programming course in the second semester.
-
-**Developed by:** Muhamad Nur Arif (41523010147) for Advanced Programming 2024/2025 Class
-
-**LinkedIn:** https://www.linkedin.com/in/marif8/
